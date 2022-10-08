@@ -1,6 +1,5 @@
 {
   "name": "mean-stack-file-upload",
-  "version": "1.0.0",
   "main":"server.js",
   "engines": {
     "node": "16.16.0"
